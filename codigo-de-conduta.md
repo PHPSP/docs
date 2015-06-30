@@ -2,7 +2,7 @@
 
 ### Versão curta
 
-> O PHPSP está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
+> O **PHPSP** está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
 > Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade. 
 > Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações. 
 > Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso, a critério da organização do mesmo. 
@@ -10,7 +10,7 @@
 
 ### Versão Longa
 
-O PHPSP está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
+O **PHPSP** está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
 Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade. 
 Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações. 
 Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso, a critério da organização do mesmo. 
@@ -45,12 +45,12 @@ Faremos o possível para que todos sintam-se confortáveis e seguros.
 
 Contamos com sua compreensão e participação.
 
-Contato para eventos do PHPSP: eventos@phpsp.org.br
-[Local do evento]: [Telefone do local]
-Polícia: 190
-Central de Atendimento à Mulher: 180
-SAMU: 192
+* Contato para eventos do **PHPSP**: eventos@phpsp.org.br
+* [Local do evento]: [Telefone do local]
+* Polícia: 190
+* Central de Atendimento à Mulher: 180
+* SAMU: 192
 
-Esperamos que todos os participantes sigam estas recomendações em todos os locais onde o PHPSP estiver levando um evento.
+Esperamos que todos os participantes sigam estas recomendações em todos os locais onde o **PHPSP** estiver levando um evento.
 
 Aproveitem saudavelmente o evento!
