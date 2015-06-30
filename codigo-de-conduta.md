@@ -35,7 +35,7 @@ sem reembolso do valor pago para participar do evento se aplicável.
 
 Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, 
 ou se tiver qualquer preocupação a respeito deste tema, 
-não deixe de contactar imediatamente um membro da organização do evento ou administradores do canais de comunicação. 
+não deixe de contactar imediatamente um membro da organização do evento ou administradores dos canais de comunicação. 
 As pessoas responsáveis pela organização serão apresentadas ao início dos eventos e podem ser facilmente 
 identificados por camisetas e/ou crachás.
 
