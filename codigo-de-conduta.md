@@ -3,17 +3,17 @@
 ### Versão curta
 
 > O **PHPSP** está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
-> Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade. 
-> Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações. 
-> Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso, a critério da organização do mesmo. 
+> Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade e/ou canais de comunicação. 
+> Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos e discussões - isto inclui palestras, apresentações, exemplos ou demonstrações. 
+> Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso ou removidos dos canais de comunicação, a critério da organização do mesmo. 
 > Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/PHPSP/docs/blob/master/codigo-de-conduta.md].
 
 ### Versão Longa
 
 O **PHPSP** está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião. 
-Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade. 
-Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações. 
-Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso, a critério da organização do mesmo. 
+Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos organizados pela comunidade e/ou canais de comunicação. 
+Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos e discussões- isto inclui palestras, apresentações, exemplos ou demonstrações. 
+Os participantes que violarem estas regras podem ser repreendidos ou expulsos do evento sem direito a reembolso ou removidos dos canais de comunicação, a critério da organização do mesmo. 
 
 Entendemos como assédio e constrangimento: 
 comentários que reforçam estruturas sociais de dominação, seja relacionado a gênero, identidade e expressão de gênero, 
@@ -35,7 +35,7 @@ sem reembolso do valor pago para participar do evento se aplicável.
 
 Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, 
 ou se tiver qualquer preocupação a respeito deste tema, 
-não deixe de contactar um membro da organização do evento imediatamente. 
+não deixe de contactar imediatamente um membro da organização do evento ou administradores dos canais de comunicação. 
 As pessoas responsáveis pela organização serão apresentadas ao início dos eventos e podem ser facilmente 
 identificados por camisetas e/ou crachás.
 
@@ -51,6 +51,6 @@ Contamos com sua compreensão e participação.
 * Central de Atendimento à Mulher: 180
 * SAMU: 192
 
-Esperamos que todos os participantes sigam estas recomendações em todos os locais onde o **PHPSP** estiver levando um evento.
+Esperamos que todos os participantes sigam estas recomendações em todos os locais onde o **PHPSP** estiver levando um evento e/ou promovendo uma discussão.
 
-Aproveitem saudavelmente o evento!
+Aproveitem saudavelmente!
