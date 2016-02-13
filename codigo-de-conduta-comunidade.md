@@ -39,7 +39,7 @@ Os participantes solicitados a parar com o comportamento inadequado devem fazê-
 
 Representantes de mantenedores, patrocinadores, parceiros, fornecedores e quaisquer atividades similares estão igualmente sujeitos às mesmas regras deste código de conduta. 
 
-Se um participante apresentar comportamento constrangedor, os organizadores do canal podem tomar quaisquer ações a seu critério, incluindo uma advertência verbal ou mesmo a espulsão do agressor, sem reembolso do valor pago para participar se aplicável.
+Se um participante apresentar comportamento constrangedor, os organizadores do canal podem tomar quaisquer ações a seu critério, incluindo uma advertência verbal ou mesmo a expulsão do agressor, sem reembolso do valor pago para participar se aplicável.
 
 Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, ou se tiver qualquer preocupação a respeito deste tema, não deixe de contactar um dos evangelistas da comunidade imediatamente. 
 As pessoas responsáveis pela organização em eventos serão apresentadas ao início dos eventos e podem ser facilmente identificados por camisetas e/ou crachás. Nos canais oficiais da comunidade procure um dos evangelistas da comunidade [http://phpsp.org.br/quem-e-a-comunidade/].
