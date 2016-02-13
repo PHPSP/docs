@@ -8,7 +8,7 @@
 > Os participantes que violarem estas regras podem ser repreendidos ou expulsos do canal e/ou evento sem direito a reembolso, a critério da organização.
 > Entendemos como assédio e constrangimento:
 
-> * comentários que reforçam estruturas sociais de dominação, seja relacionado a gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião;
+> * comentários que reforçam estruturas sociais de dominação, sejam relacionados a gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião;
 > * imagens sexuais em espaços públicos; 
 > * intimidação intencional; 
 > * perseguição;
