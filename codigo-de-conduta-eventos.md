@@ -42,7 +42,7 @@ Em especial os estandes não devem promover imagens, impressos, atividades ou qu
 
 Se um participante apresentar comportamento constrangedor, os organizadores do evento podem tomar quaisquer ações a seu critério, incluindo uma advertência verbal ou mesmo a expulsão do agressor, sem reembolso do valor pago para participar se aplicável.
 
-Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, ou se tiver qualquer preocupação a respeito deste tema, não deixe de contactar um dos evangelistas da comunidade imediatamente. 
+Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, ou se tiver qualquer preocupação a respeito deste tema, não deixe de contatar um dos evangelistas da comunidade imediatamente. 
 As pessoas responsáveis pela organização em eventos serão apresentadas ao início dos eventos e podem ser facilmente identificados por camisetas e/ou crachás. Nos canais oficiais da comunidade procure um dos evangelistas da comunidade [http://phpsp.org.br/quem-e-a-comunidade/].
 
 Embora o desejo seja de que isso não venha a ser necessário, caso seja preciso a organização ajudará os participantes no contato com a segurança do local ou com a polícia ou mesmo providenciando escolta. 
