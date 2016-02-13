@@ -20,7 +20,7 @@
 
 ### Versão Longa
 
-O **PHPSP** está comprometido a oferecer livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
+O **PHPSP** está comprometido a oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
 Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos da comunidade.
 Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações.
 Os participantes que violarem estas regras podem ser repreendidos, suspensos ou até mesmo expulsos e impedidos de particparem dos canais oficiais da comunidade e seus eventos.
