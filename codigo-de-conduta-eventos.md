@@ -27,7 +27,7 @@ Os participantes que violarem estas regras podem ser repreendidos, suspensos ou 
 
 Entendemos como assédio e constrangimento: 
 
-* comentários que reforçam estruturas sociais de dominação, seja relacionado a gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião;
+* comentários que reforçam estruturas sociais de dominação, seja relacionados a gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião;
 * imagens sexuais em espaços públicos; 
 * intimidação intencional; 
 * perseguição;
