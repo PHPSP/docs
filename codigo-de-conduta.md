@@ -16,7 +16,7 @@
 > * interrupção continuada e intencional de palestras e/ou eventos paralelos;
 > * contato físico inapropriado; atenção sexual não solicitada;
 
-> Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/PHPSP/docs/blob/master/codigo-de-conduta.md].
+> Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/PHPSP/docs/blob/master/codigo-de-conduta-comunidade.md].
 
 ### Versões longas e específicas 
 
