@@ -16,8 +16,6 @@
 > * interrupção continuada e intencional de palestras e/ou eventos paralelos;
 > * contato físico inapropriado; atenção sexual não solicitada;
 
-> Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/PHPSP/docs/blob/master/codigo-de-conduta.md].
-
 ### Versão Longa
 
 O **PHPSP** está comprometido a ser uma comunidade livre de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
