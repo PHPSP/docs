@@ -10,6 +10,7 @@
 
 > * comentários que reforçam estruturas sociais de dominação, sejam relacionados a gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião;
 > * imagens sexuais em espaços públicos; 
+> * comentários de cunho sexual;
 > * intimidação intencional; 
 > * perseguição;
 > * obtenção de som ou imagem constrangedores;
